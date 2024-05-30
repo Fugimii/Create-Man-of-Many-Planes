@@ -1,6 +1,6 @@
 ## A very simple datapack that adds 2 recipes to [Man of Many Planes](https://modrinth.com/mod/man-of-many-planes) 
 
-[Modrinth Link Here](https://modrinth.com/project/create-man-of-many-planes)
+[Modrinth Link](https://modrinth.com/project/create-man-of-many-planes)
 
 No Curseforge link because [Overwolf Sucks](https://www.reddit.com/r/feedthememes/comments/17mrniv/this_is_not_a_meme_overwolf_uses_the_revenue_that/)
 
