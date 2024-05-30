@@ -1,5 +1,8 @@
 ## A very simple datapack that adds 2 recipes to [Man of Many Planes](https://modrinth.com/mod/man-of-many-planes) 
 
+[Modrinth Link Here](https://modrinth.com/project/create-man-of-many-planes)
+No Curseforge link because [Overwolf Sucks](https://www.reddit.com/r/feedthememes/comments/17mrniv/this_is_not_a_meme_overwolf_uses_the_revenue_that/)
+
 Requires [Create](https://modrinth.com/mod/create), [Man of Many Planes](https://modrinth.com/mod/man-of-many-planes) and [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft)
 
 Reccomended to be used with [Create Immersive Aircrafts - Recipes](https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-data-pack) and [Create Immersive Aircrafts](https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack)
