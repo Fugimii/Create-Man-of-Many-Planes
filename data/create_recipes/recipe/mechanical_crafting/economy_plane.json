@@ -1,5 +1,7 @@
 {
   "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
   "pattern": [
     "   S ",
     "S TSP",
@@ -45,7 +47,7 @@
     ]
   },
   "result": {
-    "item": "man_of_many_planes:economy_plane"
-  },
-  "acceptMirrored": true
+    "count": 1,
+    "id": "man_of_many_planes:economy_plane"
+  }
 }
